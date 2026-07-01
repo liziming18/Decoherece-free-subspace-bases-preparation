@@ -1,4 +1,4 @@
-This is the source code for article "Efficient Preparation of Decoherence Free Subspace Basis States", which is published in Physical Review A.
+This is the source code for article "Efficient Preparation of Decoherence Free Subspace Basis States", which is published in Physical Review A, doi: https://doi.org/10.1103/ndjm-z894
 
 The file "utils_for_supersinglets.py" defines some important functions which are used for generating corresppnding quantum circuits.
 
